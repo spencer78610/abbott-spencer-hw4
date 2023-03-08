@@ -60,6 +60,60 @@ body, p, h1, h2, h3, h4, h5 {
    padding-right: 15px;
 }
 
+.m-box {
+   background-color: powderblue;
+   color: rgb(27, 27, 27);
+   border-radius: 5px;
+   padding: 20px;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom:10px;
+   height: 163px;
+ }
+
+.m-box1 {
+   background-color: powderblue;
+   color: rgb(27, 27, 27);
+   border-radius: 5px;
+   padding: 20px;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom:10px;
+   height: 350px;
+ }
+
+ .article1 {
+   background-color: powderblue;
+   color: rgb(27, 27, 27);
+   border-radius: 5px;
+   padding: 20px;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom:10px;
+   height: 218px;
+ }
+
+ .box-bg {
+   background-color: powderblue;
+   color: rgb(27, 27, 27);
+   border-radius: 5px;
+   padding: 20px;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom:10px;
+   height: 425px;
+ }
+
+ .box-bg-button {
+   background-color: grey;
+   color: rgb(27, 27, 27);
+   border-radius: 5px;
+   padding: 20px;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom:10px;
+   height: 60px;
+ }
 /* A keyword indicating that the property contributes nothing to the grid item's placement, indicating auto-placement, an automatic span, or a default span of 1. */
 .col-auto {grid-column: auto;}
 .col-span-1	{grid-column: span 1 / span 1;}
@@ -92,6 +146,72 @@ body, p, h1, h2, h3, h4, h5 {
       padding-left: 16px;
       padding-right: 16px;
    }
+
+   .m-box {
+      background-color: powderblue;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom:10px;
+      height: 163px;
+    }
+
+   .m-box2 {
+      background-color: powderblue;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom:10px;
+      height: 300px;
+    }
+
+    .m-article1 {
+      background-color: powderblue;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom:10px;
+      height: 186px;
+    }
+
+    .button2 {
+      background-color: powderblue;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom:10px;
+      height: 330px;
+   }
+
+   .box-bg-button2 {
+      background-color: grey;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 250px;
+      margin-bottom:10px;
+      height: 60px;
+    }
+
+    .box-bg2 {
+      background-color: powderblue;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom:10px;
+      height: 330px;
+    }
 
    .m-col-auto {grid-column: auto;}
    .m-col-span-1	{grid-column: span 1 / span 1;}
@@ -150,6 +270,61 @@ body, p, h1, h2, h3, h4, h5 {
       grid-column-gap: 30px;
       padding-left: 15px;
       padding-right: 15px;
+   }
+
+   .d-box {
+      background-color: powderblue;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom:10px;
+      height: 181px;
+   }
+
+   .box3 {
+      background-color: powderblue;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom:10px;
+      height: 389px;
+   }
+
+   .box4 {
+      background-color: powderblue;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom:10px;
+      height: 389px;
+   }
+
+   .article2 {
+      background-color: powderblue;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom:10px;
+      height: 226px;
+   }
+
+   .button2 {
+      background-color: powderblue;
+      color: rgb(27, 27, 27);
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom:10px;
+      height: 330px;
    }
 
    .l-col-auto {grid-column: auto;}
